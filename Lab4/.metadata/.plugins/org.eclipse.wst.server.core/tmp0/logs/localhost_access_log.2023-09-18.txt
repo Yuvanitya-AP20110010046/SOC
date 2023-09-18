@@ -1,0 +1,7 @@
+127.0.0.1 - - [18/Sep/2023:20:56:16 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [18/Sep/2023:20:56:55 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [18/Sep/2023:20:57:17 +0530] "GET /testW/services/Calculator?wsdl HTTP/1.1" 200 4320
+127.0.0.1 - - [18/Sep/2023:20:57:17 +0530] "GET /testW/services/Calculator?wsdl HTTP/1.1" 200 4320
+0:0:0:0:0:0:0:1 - - [18/Sep/2023:21:01:52 +0530] "GET /testW/services/Calculator?wsdl HTTP/1.1" 200 4320
+0:0:0:0:0:0:0:1 - - [18/Sep/2023:21:01:52 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [18/Sep/2023:21:16:03 +0530] "POST /testW/services/Calculator.CalculatorHttpSoap11Endpoint/ HTTP/1.1" 200 264
